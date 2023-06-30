@@ -7,7 +7,7 @@ public class Main {
 //        newArray.arrayString();
 //        newArray.arrayInt();
 
-        StackDS stack = new StackDS();
-        stack.createStack();
+        ArrayLists newArrayLists = new ArrayLists();
+        newArrayLists.stringList();
     }
 }
