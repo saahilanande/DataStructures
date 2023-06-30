@@ -7,7 +7,13 @@ public class Main {
 //        newArray.arrayString();
 //        newArray.arrayInt();
 
-        ArrayLists newArrayLists = new ArrayLists();
-        newArrayLists.stringList();
+//        ArrayLists newArrayLists = new ArrayLists();
+//        newArrayLists.stringList();
+
+//        StackDS newStack = new StackDS();
+//        newStack.createStack();
+
+        QueueDs newQueue = new QueueDs();
+        newQueue.QueueDs();
     }
 }
