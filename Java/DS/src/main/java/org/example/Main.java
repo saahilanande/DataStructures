@@ -16,11 +16,15 @@ public class Main {
 //        QueueDs newQueue = new QueueDs();
 //        newQueue.QueueDs();
 
-        Setds newSet = new Setds();
-        newSet.hashSetdemo();
-        newSet.treesetdemo();
+//        Setds newSet = new Setds();
+//        newSet.hashSetdemo();
+//        newSet.treesetdemo();
 
 //        LinkListds newlink = new LinkListds();
 //        newlink.LinkedListWithList();
+
+        Mapds newMap = new Mapds();
+        newMap.hashmapDemo();
+        newMap.linkedmapDemo();
     }
 }
