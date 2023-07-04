@@ -8,7 +8,7 @@ public class ArrayLists {
     public void stringList(){
 
         //Initializing the Dynamic array from collection Api
-        ArrayList stringArry = new ArrayList<>();
+        ArrayList<String> stringArry = new ArrayList<>();
 
         //ArrayList implements List interface so it can do list operations
         stringArry.add("one");

@@ -16,7 +16,11 @@ public class Main {
 //        QueueDs newQueue = new QueueDs();
 //        newQueue.QueueDs();
 
-        LinkListds newlink = new LinkListds();
-        newlink.LinkedListWithList();
+        Setds newSet = new Setds();
+        newSet.hashSetdemo();
+        newSet.treesetdemo();
+
+//        LinkListds newlink = new LinkListds();
+//        newlink.LinkedListWithList();
     }
 }
