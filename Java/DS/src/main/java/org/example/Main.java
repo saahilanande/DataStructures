@@ -13,7 +13,11 @@ public class Main {
 //        StackDS newStack = new StackDS();
 //        newStack.createStack();
 
-        QueueDs newQueue = new QueueDs();
-        newQueue.QueueDs();
+//        QueueDs newQueue = new QueueDs();
+//        newQueue.QueueDs();
+
+        Setds newSet = new Setds();
+        newSet.hashSetdemo();
+        newSet.treesetdemo();
     }
 }

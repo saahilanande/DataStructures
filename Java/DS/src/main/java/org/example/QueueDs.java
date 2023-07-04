@@ -10,7 +10,7 @@ public class QueueDs {
 
     public void QueueDs(){
         //Initializing a PriorityQueue
-        Queue priQue = new PriorityQueue();
+        Queue<String> priQue = new PriorityQueue<>();
 
         //Adding item to queue
         priQue.add("one");
