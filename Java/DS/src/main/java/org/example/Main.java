@@ -19,5 +19,8 @@ public class Main {
         Setds newSet = new Setds();
         newSet.hashSetdemo();
         newSet.treesetdemo();
+
+//        LinkListds newlink = new LinkListds();
+//        newlink.LinkedListWithList();
     }
 }
